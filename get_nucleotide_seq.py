@@ -17,7 +17,7 @@ def get_nuc_from_prot_accession(id):
 
 # add sequence to concatenated FASTA file
 
-with open('accs_two', 'r') as f:
+with open('all_species_with_accession', 'r') as f:
 	lines = f.readlines()
 	recs = map(lambda x : get_nuc_from_prot_accession(x), lines)
 
