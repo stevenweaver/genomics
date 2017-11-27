@@ -1,0 +1,212 @@
+Xenopus tropicalis
+Xenopus laevis
+Rana catesbeiana
+Ambystoma tigrinum
+Cynops pyrrhogaster
+Chrysemys picta bellii
+Chelonia mydas
+Melanoseps occidentalis
+Feylinia sp. BFS-2015
+Gekko gecko
+Phelsuma madagascariensis longintinue
+Amphisbaena alba
+Amphisbaena infraorbitale
+Amphisbaena sp. BFS-2015
+Uta stansburiana
+Takydromus sexlineatus
+Python bivittatus
+Python regius
+Xenopeltis unicolor
+Polemon collaris
+Phrynonax poecilonotus
+Atractus flammigerus
+Tropidophis feicki
+Ophiodes striatus
+Anolis carolinensis
+Bachia flavescens
+Cercartetus concinnus - N
+Tarsipes rostratus - N
+Monodelphis domestica - N
+Monodelphis domestica - N
+Thylamys elegans - N
+Didelphis aurita - N
+Sarcophilus harrisii - M
+Sminthopsis crassicaudata - N
+Setonix brachyurus - M
+Notamacropus eugenii
+Isoodon obesulus
+Heterocephalus glaber - NN
+Cavia porcellus
+Chinchilla lanigera
+Fukomys damarensis - NN
+Octodon degus
+Phodopus sungorus
+Cricetulus griseus
+Mus musculus
+Mus musculus
+Mus musculus
+Arvicanthis ansorgei
+Rattus norvegicus
+Peromyscus maniculatus bairdii
+Mesocricetus auratus
+Microtus ochrogaster
+Nannospalax galili - NN
+Galeopterus variegatus - N
+Tupaia chinensis
+Sciurus carolinensis
+Ictidomys tridecemlineatus
+Oryctolagus cuniculus
+Ochotona princeps
+Dipodomys ordii
+Jaculus jaculus
+Chrysochloris asiatica
+Orycteropus afer afer
+Loxodonta africana
+Trichechus manatus latirostris
+Haplonycteris fischeri
+Erinaceus europaeus
+Camelus dromedarius
+Camelus bactrianus
+Camelus ferus
+Vicugna pacos
+Sus scrofa
+Orcinus orca
+Tursiops truncatus
+Lipotes vexillifer
+Physeter catodon
+Balaenoptera acutorostrata scammoni
+Bos taurus
+Bison bison bison
+Bos mutus
+Bubalus bubalis
+Bos taurus
+Ovis aries musimon
+Ovis aries
+Capra hircus
+Pantholops hodgsonii
+Rangifer tarandus tarandus
+Panthera tigris altaica
+Felis catus
+Mustela putorius furo
+Enhydra lutris
+Ursus maritimus
+Ailuropoda melanoleuca
+Ursus maritimus
+Odobenus rosmarus divergens
+Canis lupus familiaris
+Pteropus alecto
+Cynopterus sphinx
+Pteropus dasymallus formosus
+Pteropus vampyrus
+Miniopterus fuliginosus
+Rhinolophus sinicus
+Taphozous melanopogon
+Eptesicus fuscus
+Nyctalus plancyi
+Myotis velifer
+Myotis brandtii
+Myotis laniger
+Myotis ricketti
+Myotis davidii
+Myotis lucifugus
+Myotis lucifugus
+Chaerephon plicatus
+Sorex araneus
+Condylura cristata
+Echinops telfairi
+Otolemur garnettii
+Propithecus coquereli
+Microcebus murinus
+Equus przewalskii
+Equus przewalskii
+Equus caballus
+Ceratotherium simum simum
+Colobus angolensis palliatus
+Rhinopithecus roxellana
+Macaca nemestrina
+Papio anubis
+Cercocebus atys
+Papio anubis
+Macaca fascicularis
+Mandrillus leucophaeus
+Chlorocebus sabaeus
+Macaca mulatta
+Homo sapiens
+Pan troglodytes
+Gorilla gorilla gorilla
+Pongo abelii
+Nomascus leucogenys
+Callithrix jacchus
+Saimiri boliviensis boliviensis
+Aotus nancymaae
+Carlito syrichta
+Elephantulus edwardii
+Eolophus roseicapillus
+Calyptorhynchus latirostris
+Cacatua galerita
+Platycercus elegans
+Barnardius zonarius semitorquatus
+Melopsittacus undulatus
+Nestor notabilis
+Spheniscus humboldti
+Columba livia
+Balearica regulorum gibbericeps
+Grus americana
+Corvus cornix cornix
+Corvus brachyrhynchos
+Acanthisitta chloris
+Poecile palustris
+Parus major
+Pseudopodoces humilis
+Cyanistes caeruleus
+Cardellina pusilla
+Setophaga pensylvanica
+Setophaga magnolia
+Setophaga fusca
+Setophaga castanea
+Geothlypis philadelphia
+Euplectes afer
+Serinus canaria
+Mniotilta varia
+Setophaga ruticilla
+Setophaga striata
+Oreothlypis ruficapilla
+Setophaga petechia
+Geothlypis trichas
+Setophaga caerulescens
+Setophaga palmarum
+Taeniopygia guttata
+Zonotrichia albicollis
+Geospiza fortis
+Seiurus aurocapilla
+Euplectes orix
+Ficedula albicollis
+Calliope calliope
+Luscinia svecica
+Abrornis maculipennis
+Phylloscopus occipitalis
+Abrornis chloronotus
+Phylloscopus pulcher
+Phylloscopus reguloides
+Seicercus whistleri
+Abrornis humei
+Manacus vitellinus
+Antrostomus carolinensis
+Phalacrocorax carbo
+Opisthocomus hoazin
+Tauraco erythrolophus
+Picoides pubescens
+Cuculus canorus
+Fulmarus glacialis
+Nipponia nippon
+Aptenodytes forsteri
+Gallus gallus
+Eurypyga helias
+Falco cherrug
+Falco peregrinus
+Aquila chrysaetos canadensis
+Haliaeetus leucocephalus
+Cariama cristata
+Leptosomus discolor
+Neoceratodus forsteri
+Geotria australis
