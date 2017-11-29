@@ -24,21 +24,21 @@
 884527908  Ophiodes striatus                      Ophiodes
 327288995  Anolis carolinensis                    Carolina anole
 884527906  Bachia flavescens                      Bachia
-59895726   Cercartetus concinnus - N              Western pygmy possum
-59895724   Tarsipes rostratus - N                 Honey possum
-86211177   Monodelphis domestica - N              Gray short-tailed opossum
-612053414  Monodelphis domestica - N              Gray short-tailed opossum
-86211179   Thylamys elegans - N                   Elegant fat-tailed mouse opossum
-85720641   Didelphis aurita - N                   Big-eared opossum
-395539363  Sarcophilus harrisii - M               Tasmanian devil
-38231560   Sminthopsis crassicaudata - N          Fat-tailed dunnart
-52221229   Setonix brachyurus - M                 Quokka
+59895726   Cercartetus concinnus               Western pygmy possum
+59895724   Tarsipes rostratus                  Honey possum
+86211177   Monodelphis domestica               Gray short-tailed opossum
+612053414  Monodelphis domestica               Gray short-tailed opossum
+86211179   Thylamys elegans                    Elegant fat-tailed mouse opossum
+85720641   Didelphis aurita                    Big-eared opossum
+395539363  Sarcophilus harrisii                Tasmanian devil
+38231560   Sminthopsis crassicaudata           Fat-tailed dunnart
+52221229   Setonix brachyurus                  Quokka
 31322956   Notamacropus eugenii                   ['Macropus', 'Tammar wallaby', 'Macropodidae', 'Wallaby', 'Kangaroo', 'Wombat', 'Sugar glider', 'Quokka', 'List of monotremes and marsupials', 'Koala']
 52857761   Isoodon obesulus                       Southern brown bandicoot
-512989065  Heterocephalus glaber - NN             Naked mole-rat
+512989065  Heterocephalus glaber N             Naked mole-rat
 289629292  Cavia porcellus                        Guinea pig
 533178379  Chinchilla lanigera                    Long-tailed chinchilla
-731236363  Fukomys damarensis - NN                Damaraland mole-rat
+731236363  Fukomys damarensis N                Damaraland mole-rat
 507693866  Octodon degus                          Common degu
 14192790   Phodopus sungorus                      Djungarian hamster
 625289930  Cricetulus griseus                     Chinese hamster
@@ -50,8 +50,8 @@
 589933402  Peromyscus maniculatus bairdii         List of mammals of British Columbia
 880974618  Mesocricetus auratus                   Golden hamster
 532046007  Microtus ochrogaster                   Prairie vole
-674074617  Nannospalax galili - NN                Lesser mole-rat
-667308135  Galeopterus variegatus - N             Sunda flying lemur
+674074617  Nannospalax galili N                Lesser mole-rat
+667308135  Galeopterus variegatus              Sunda flying lemur
 562835163  Tupaia chinensis                       Mammals of Borneo
 83630405   Sciurus carolinensis                   Sciurus
 532067275  Ictidomys tridecemlineatus             Thirteen-lined ground squirrel
@@ -114,9 +114,9 @@
 505801345  Sorex araneus                          Common shrew
 507931660  Condylura cristata                     Star-nosed mole
 507667492  Echinops telfairi                      Lesser hedgehog tenrec
-831225769  Otolemur garnettii                     Northern greater galago - N
-826351608  Propithecus coquereli                  Coquerel's sifaka - N
-829888493  Microcebus murinus                     Gray mouse lemur - N
+831225769  Otolemur garnettii                     Northern greater galago 
+826351608  Propithecus coquereli                  Coquerel's sifaka 
+829888493  Microcebus murinus                     Gray mouse lemur 
 664699950  Equus przewalskii                      Przewalski's horse
 664699948  Equus przewalskii                      Przewalski's horse
 149706207  Equus caballus                         Horse
@@ -138,8 +138,8 @@
 332224382  Nomascus leucogenys                    Northern white-cheeked gibbon
 296210687  Callithrix jacchus                     Common marmoset
 403256847  Saimiri boliviensis boliviensis        Black-capped squirrel monkey
-817317597  Aotus nancymaae                        Nancy Ma's night monkey - N
-640810396  Carlito syrichta                       Philippine tarsier - N
+817317597  Aotus nancymaae                        Nancy Ma's night monkey 
+640810396  Carlito syrichta                       Philippine tarsier 
 585696530  Elephantulus edwardii                  Cape elephant shrew
 296142096  Eolophus roseicapillus                 Galah
 296142094  Calyptorhynchus latirostris            Carnaby's black cockatoo
