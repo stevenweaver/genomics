@@ -1,0 +1,212 @@
+183985969, Xenopus tropicalis
+54311338,  Xenopus laevis
+8671490,   Rana catesbeiana
+4027889,   Ambystoma tigrinum
+17974228,  Cynops pyrrhogaster
+530573866, Chrysemys picta bellii
+591386123, Chelonia mydas
+884527912, Melanoseps occidentalis
+884527910, Feylinia sp. BFS-2015
+12667704,  Gekko gecko
+5565637,   Phelsuma madagascariensis longintinue
+884527916, Amphisbaena alba
+884527914, Amphisbaena infraorbitale
+884527918, Amphisbaena sp. BFS-2015
+73666470,  Uta stansburiana
+884527920, Takydromus sexlineatus
+602672386, Python bivittatus
+240254688, Python regius
+240254682, Xenopeltis unicolor
+884527924, Polemon collaris
+884527926, Phrynonax poecilonotus
+884527928, Atractus flammigerus
+884527922, Tropidophis feicki
+884527908, Ophiodes striatus
+327288995, Anolis carolinensis
+884527906, Bachia flavescens
+59895726,  Cercartetus concinnus 
+59895724,  Tarsipes rostratus 
+86211177,  Monodelphis domestica
+612053414, Monodelphis domestica 
+86211179,  Thylamys elegans 
+85720641,  Didelphis aurita 
+395539363, Sarcophilus harrisii 
+38231560,  Sminthopsis crassicaudata 
+52221229,  Setonix brachyurus 
+31322956,  Notamacropus eugenii
+52857761,  Isoodon obesulus
+512989065, Heterocephalus glaber 
+289629292, Cavia porcellus
+533178379, Chinchilla lanigera
+731236363, Fukomys damarensis 
+507693866, Octodon degus
+14192790,  Phodopus sungorus
+625289930, Cricetulus griseus
+568939385, Mus musculus
+37194856,  Mus musculus
+568939379, Mus musculus
+213579634, Arvicanthis ansorgei
+25742620,  Rattus norvegicus
+589933402, Peromyscus maniculatus bairdii
+880974618, Mesocricetus auratus
+532046007, Microtus ochrogaster
+674074617, Nannospalax galili 
+667308135, Galeopterus variegatus
+562835163, Tupaia chinensis
+83630405,  Sciurus carolinensis
+532067275, Ictidomys tridecemlineatus
+655819600, Oryctolagus cuniculus
+504165095, Ochotona princeps
+852759624, Dipodomys ordii
+507555013, Jaculus jaculus
+586461042, Chrysochloris asiatica
+634888841, Orycteropus afer afer
+51101223,  Loxodonta africana
+471399281, Trichechus manatus latirostris
+98956513,  Haplonycteris fischeri
+617617805, Erinaceus europaeus
+744551514, Camelus dromedarius
+743705125, Camelus bactrianus
+560917086, Camelus ferus
+560959760, Vicugna pacos
+47522990,  Sus scrofa
+466021507, Orcinus orca
+470597006, Tursiops truncatus
+602719153, Lipotes vexillifer
+593762353, Physeter catodon
+594657847, Balaenoptera acutorostrata scammoni
+27807027,  Bos taurus
+742236428, Bison bison bison
+555986909, Bos mutus
+594102812, Bubalus bubalis
+1905885,   Bos taurus
+803253841, Ovis aries musimon
+426227987, Ovis aries
+548463879, Capra hircus
+556772617, Pantholops hodgsonii
+295007320, Rangifer tarandus tarandus
+591302466, Panthera tigris altaica
+410952805, Felis catus
+511834482, Mustela putorius furo
+62275622,  Enhydra lutris
+62275609,  Ursus maritimus
+301755248, Ailuropoda melanoleuca
+671026532, Ursus maritimus
+472356891, Odobenus rosmarus divergens
+73975826,  Canis lupus familiaris
+586551086, Pteropus alecto
+284813847, Cynopterus sphinx
+98956505,  Pteropus dasymallus formosus
+759111738, Pteropus vampyrus
+284813829, Miniopterus fuliginosus
+284813843, Rhinolophus sinicus
+284813839, Taphozous melanopogon
+641724698, Eptesicus fuscus
+284813833, Nyctalus plancyi
+98956515,  Myotis velifer
+554548891, Myotis brandtii
+284813831, Myotis laniger
+194400541, Myotis ricketti
+584053674, Myotis davidii
+558123362, Myotis lucifugus
+254838572, Myotis lucifugus
+284813841, Chaerephon plicatus
+505801345, Sorex araneus
+507931660, Condylura cristata
+507667492, Echinops telfairi
+831225769, Otolemur garnettii
+826351608, Propithecus coquereli
+829888493, Microcebus murinus
+664699950, Equus przewalskii
+664699948, Equus przewalskii
+149706207, Equus caballus
+478488770, Ceratotherium simum simum
+795152647, Colobus angolensis palliatus
+724899480, Rhinopithecus roxellana
+795323436, Macaca nemestrina
+402864747, Papio anubis
+795402852, Cercocebus atys
+685533192, Papio anubis
+545687090, Macaca fascicularis
+795228246, Mandrillus leucophaeus
+635116136, Chlorocebus sabaeus
+109068106, Macaca mulatta
+110832709, Homo sapiens
+57114123,  Pan troglodytes
+426357812, Gorilla gorilla gorilla
+297681450, Pongo abelii
+332224382, Nomascus leucogenys
+296210687, Callithrix jacchus
+403256847, Saimiri boliviensis boliviensis
+817317597, Aotus nancymaae
+640810396, Carlito syrichta
+585696530, Elephantulus edwardii
+296142096, Eolophus roseicapillus
+296142094, Calyptorhynchus latirostris
+296142098, Cacatua galerita
+570517896, Platycercus elegans
+296142092, Barnardius zonarius semitorquatus
+2894432,   Melopsittacus undulatus
+701322822, Nestor notabilis
+12054987,  Spheniscus humboldti
+6687226,   Columba livia
+723552850, Balearica regulorum gibbericeps
+697870545, Grus americana
+727000194, Corvus cornix cornix
+669286296, Corvus brachyrhynchos
+677991594, Acanthisitta chloris
+30408056,  Poecile palustris
+30408054,  Parus major
+543380551, Pseudopodoces humilis
+30408052,  Cyanistes caeruleus
+734704494, Cardellina pusilla
+734704476, Setophaga pensylvanica
+734704472, Setophaga magnolia
+734704470, Setophaga fusca
+734704468, Setophaga castanea
+734704484, Geothlypis philadelphia
+30408058,  Euplectes afer
+7981414,   Serinus canaria
+734704486, Mniotilta varia
+734704490, Setophaga ruticilla
+734704480, Setophaga striata
+734704492, Oreothlypis ruficapilla
+734704478, Setophaga petechia
+734704482, Geothlypis trichas
+734704466, Setophaga caerulescens
+734704474, Setophaga palmarum
+115529268, Taeniopygia guttata
+542185675, Zonotrichia albicollis
+543297617, Geospiza fortis
+734704488, Seiurus aurocapilla
+30408060,  Euplectes orix
+525028303, Ficedula albicollis
+30408064,  Calliope calliope
+30408062,  Luscinia svecica
+734704498, Abrornis maculipennis
+734704500, Phylloscopus occipitalis
+734704502, Abrornis chloronotus
+734704504, Phylloscopus pulcher
+734704506, Phylloscopus reguloides
+734704508, Seicercus whistleri
+734704496, Abrornis humei
+675421290, Manacus vitellinus
+704335932, Antrostomus carolinensis
+154813845, Phalacrocorax carbo
+700375237, Opisthocomus hoazin
+701343627, Tauraco erythrolophus
+699660929, Picoides pubescens
+696987556, Cuculus canorus
+697033715, Fulmarus glacialis
+694850140, Nipponia nippon
+686608688, Aptenodytes forsteri
+45382143,  Gallus gallus
+704289124, Eurypyga helias
+541992323, Falco cherrug
+529449849, Falco peregrinus
+768405188, Aquila chrysaetos canadensis
+729741604, Haliaeetus leucocephalus
+698413180, Cariama cristata
+700438741, Leptosomus discolor
+155008488, Neoceratodus forsteri
+38231558,  Geotria australis
